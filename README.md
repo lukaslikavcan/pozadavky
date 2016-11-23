@@ -6,3 +6,5 @@ Pro přidání nového textu je potřeba zadat pull request. Pokud v rámci jedn
 
 # Prohlášení:
 My, studenti Fakulty výtvarných umění, z obecné nespokojenosti s výukou i fungováním fakulty jakožto celku, vznášíme, s vidinou možného zlepšení situace, následující požadavky a návrhy:
+
+1. Skola otevrena o vikendu.
